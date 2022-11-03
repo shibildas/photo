@@ -78,17 +78,17 @@ footer{
     
 }
 @keyframes trans{
-    0%{background-image: url(./Gallery/img (1).jpg);}
-    10%{background-image: url(./Gallery/img (11).jpg);}
-    20%{background-image: url(./Gallery/img (12).jpg);}
-    30%{background-image: url(./Gallery/img (13).jpg);}
-    40%{background-image: url(./Gallery/img (14).jpg);}
-    50%{background-image: url(./Gallery/img (15).jpg);}
-    60%{background-image: url(./Gallery/img (16).jpg);}
-    70%{background-image: url(./Gallery/img (3).jpg);}
-    80%{background-image: url(./Gallery/img (8).jpg);}
-    90%{background-image: url(./Gallery/img (6).jpg);}
-    100%{background-image: url(./Gallery/img (1).jpg);}
+    0%{background-image: url(../Gallery/img (1).jpg);}
+    10%{background-image: url(../Gallery/img (11).jpg);}
+    20%{background-image: url(../Gallery/img (12).jpg);}
+    30%{background-image: url(../Gallery/img (13).jpg);}
+    40%{background-image: url(../Gallery/img (14).jpg);}
+    50%{background-image: url(../Gallery/img (15).jpg);}
+    60%{background-image: url(../Gallery/img (16).jpg);}
+    70%{background-image: url(../Gallery/img (3).jpg);}
+    80%{background-image: url(../Gallery/img (8).jpg);}
+    90%{background-image: url(../Gallery/img (6).jpg);}
+    100%{background-image: url(../Gallery/img (1).jpg);}
 }
 element.style{
     display: inline-block;
