@@ -78,7 +78,7 @@ footer{
     
 }
 @keyframes trans{
-    0%{background-image: url(https://github.com/shibildas/photo/blob/f3eb01094b150dd4c96d529811a953b9a7d865c0/Gallery/img%20(1).jpg);}
+    0%{background-image: url(/Gallery/img%20(1).jpg);}
     10%{background-image: url(/Gallery/img (11).jpg);}
     20%{background-image: url(/Gallery/img (12).jpg);}
     30%{background-image: url(/Gallery/img (13).jpg);}
