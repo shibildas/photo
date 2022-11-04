@@ -78,17 +78,17 @@ footer{
     
 }
 @keyframes trans{
-    0%{background-image: url(./img (1).jpg);}
-    10%{background-image: url(./img (11).jpg);}
-    20%{background-image: url(./img (12).jpg);}
-    30%{background-image: url(./img (13).jpg);}
-    40%{background-image: url(./img (14).jpg);}
-    50%{background-image: url(./img (15).jpg);}
-    60%{background-image: url(./img (16).jpg);}
-    70%{background-image: url(./img (3).jpg);}
-    80%{background-image: url(./img (8).jpg);}
-    90%{background-image: url(./img (6).jpg);}
-    100%{background-image: url(./img (1).jpg);}
+    0%{background-image: url(./Style/img (1).jpg);}
+    10%{background-image: url(./Style/img (11).jpg);}
+    20%{background-image: url(./Style/img (12).jpg);}
+    30%{background-image: url(./Style/img (13).jpg);}
+    40%{background-image: url(./Style/img (14).jpg);}
+    50%{background-image: url(./Style/img (15).jpg);}
+    60%{background-image: url(./Style/img (16).jpg);}
+    70%{background-image: url(./Style/img (3).jpg);}
+    80%{background-image: url(./Style/img (8).jpg);}
+    90%{background-image: url(./Style/img (6).jpg);}
+    100%{background-image: url(./Style/img (1).jpg);}
 }
 element.style{
     display: inline-block;
