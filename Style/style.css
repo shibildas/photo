@@ -61,10 +61,16 @@
     height: 100vh;
     display: flex;
     flex-wrap: wrap;
-    animation-name: trans;
+/*     animation-name: trans;
     animation-duration: 60s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; */
     background-color: black;
+    background-image: url(./img (1).jpg;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
 }
 footer{
     position: absolute;
@@ -76,7 +82,7 @@ footer{
     background-color: black;
     color: white;
     
-}
+/* }
 @keyframes trans{
     0%{background-image: url(./Style/img (1).jpg);}
     10%{background-image: url(./Style/img (11).jpg);}
@@ -89,7 +95,7 @@ footer{
     80%{background-image: url(./Style/img (8).jpg);}
     90%{background-image: url(./Style/img (6).jpg);}
     100%{background-image: url(./Style/img (1).jpg);}
-}
+} */
 element.style{
     display: inline-block;
 }
